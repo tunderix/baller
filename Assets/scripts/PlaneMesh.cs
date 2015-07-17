@@ -3,6 +3,7 @@ using System.Collections;
 
 public class PlaneMesh : MonoBehaviour {
 	public int shaken = 0;
+	public string = "sami o paras"; //Samin kommentti....
 	// Use this for initialization
 	void Start () {
 		//Can you see this?
