@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{CA866A50-975D-A672-85E9-2088D6BC5D9C}") = "Baller", "Assembly-CSharp-vs.csproj", "{691D7E3A-A8DE-93CE-F9F3-B90D3A786F87}"
+Project("{2141B17F-B8B9-C95B-77E9-EECCDC7E8010}") = "baller", "Assembly-CSharp-vs.csproj", "{BB88294B-B8B2-2F5D-7BCD-AE0A23DCAFBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{691D7E3A-A8DE-93CE-F9F3-B90D3A786F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{691D7E3A-A8DE-93CE-F9F3-B90D3A786F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{691D7E3A-A8DE-93CE-F9F3-B90D3A786F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{691D7E3A-A8DE-93CE-F9F3-B90D3A786F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB88294B-B8B2-2F5D-7BCD-AE0A23DCAFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB88294B-B8B2-2F5D-7BCD-AE0A23DCAFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB88294B-B8B2-2F5D-7BCD-AE0A23DCAFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB88294B-B8B2-2F5D-7BCD-AE0A23DCAFBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-		GlobalSection(MonoDevelopProperties) = preSolution
+			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
