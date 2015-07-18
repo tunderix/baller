@@ -14,6 +14,7 @@
 *.userprefs
 *.pidb
 *.booproj
+Assembly-CSharp.csproj
 
 # Unity3D generated meta files
 *.pidb.meta
